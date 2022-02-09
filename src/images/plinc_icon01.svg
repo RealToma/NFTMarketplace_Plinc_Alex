@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40"
+     viewBox="0 0 40 40">
+    <defs>
+        <circle id="awlaescwsa" cx="20" cy="20" r="20"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g transform="translate(-24 -91) translate(0 79) translate(24 12)">
+                    <mask id="46rpf94bub" fill="#fff">
+                        <use xlink:href="#awlaescwsa"/>
+                    </mask>
+                    <use fill="#E23A56" xlink:href="#awlaescwsa"/>
+                    <path fill="#FFF"
+                          d="M19.977 8.125c6.546 0 11.852 5.306 11.852 11.852S26.523 31.83 19.977 31.83c-1.654 0-3.228-.34-4.658-.953l-.354-.158-.001 8.911.002.075c0 1.827-1.43 3.319-3.233 3.416l-.187.005c-1.827 0-3.319-1.431-3.416-3.233l-.005-.188V19.977c0-6.546 5.306-11.852 11.852-11.852zm5.097 7.715c-1.354-1.143-3.367-.937-4.61.333l-.487.496-.486-.496c-1.24-1.27-3.257-1.476-4.61-.333-1.552 1.312-1.634 3.666-.245 5.087l4.78 4.89c.31.316.81.316 1.12 0l4.78-4.89c1.391-1.421 1.31-3.775-.242-5.087z"
+                          mask="url(#46rpf94bub)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
